@@ -1,0 +1,184 @@
+{
+  "about": {
+    "browser": "chrome",
+    "version": "19.2.5"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "system",
+  "favicon": "",
+  "tabtitle": "",
+  "greeting": "GamerBoss and Musicboss",
+  "pagegap": 1,
+  "pagewidth": 1600,
+  "time": true,
+  "main": true,
+  "dateformat": "eu",
+  "background_blur": 0,
+  "background_bright": 1,
+  "background_type": "local",
+  "quicklinks": true,
+  "textShadow": 0.2,
+  "announcements": "major",
+  "review": 18,
+  "css": "#interface #time #time-container #clock {\nfont-size: 9em;\n}\n#interface #time #date{\nfont-size: 1.2em;\n}\n#interface #main #greetings{\nfont-size: 2.5em;\n}\n#interface #main #weather #current, #interface #main #weather #forecast{\nfont-size: 0.7em;\n}\n#interface #widgets{\nopacity: 0.89;\n}\n#interface #widgets #linkblocks.medium li a img{\npadding: 0.2em;\nborder-radius: 1em;\n}\n#interface #widgets #linkblocks li.block a img{\nbackground: #e1ffe2;\n}\n",
+  "hide": {
+    "settingsicon": true
+  },
+  "linkstyle": "medium",
+  "linknewtab": false,
+  "linksrow": 6,
+  "linkspcijng": {
+    "_id": "linkspcijng",
+    "icon": "https://cdn-icons-png.flaticon.com/128/6018/6018137.png",
+    "order": 3,
+    "parent": 0,
+    "title": "Scratch",
+    "url": "https://Scratch.mit.edu"
+  },
+  "linksknpajo": {
+    "_id": "linksknpajo",
+    "icon": "https://cdn-icons-png.flaticon.com/128/2504/2504911.png",
+    "order": 2,
+    "parent": 0,
+    "title": "Github",
+    "url": "https://Github.com"
+  },
+  "linksiqrkdg": {
+    "_id": "linksiqrkdg",
+    "icon": "https://cdn-icons-png.flaticon.com/128/2991/2991147.png",
+    "order": 0,
+    "parent": 0,
+    "title": "Google",
+    "url": "https://google.com"
+  },
+  "linkseahjfc": {
+    "_id": "linkseahjfc",
+    "icon": "https://cdn-icons-png.flaticon.com/128/4401/4401475.png",
+    "order": 1,
+    "parent": 0,
+    "title": "Youtube",
+    "url": "https://youtube.com"
+  },
+  "linktabs": {
+    "active": false,
+    "selected": 0,
+    "titles": [
+      ""
+    ]
+  },
+  "clock": {
+    "ampm": true,
+    "analog": false,
+    "face": "none",
+    "seconds": false,
+    "size": 1.125,
+    "style": "round",
+    "timezone": "auto"
+  },
+  "unsplash": {
+    "collection": "",
+    "every": "hour",
+    "lastCollec": "night",
+    "time": 1722024644928
+  },
+  "weather": {
+    "ccode": "PK",
+    "city": "Lahore",
+    "forecast": "auto",
+    "geolocation": "approximate",
+    "moreinfo": "none",
+    "provider": "",
+    "temperature": "actual",
+    "unit": "metric"
+  },
+  "notes": {
+    "align": "left",
+    "on": false,
+    "opacity": 0.1,
+    "text": "at 6:30 wake up for school\n\nat 3:00 come home and go to read Quran\n\nat 4:30 come home and study\n\nat 7:00 watch PC\n\nat 8:00 eat dinner \n\nat 9:00 go to Sleep\n\n",
+    "width": 40
+  },
+  "searchbar": {
+    "on": true,
+    "opacity": 0,
+    "engine": "google",
+    "newtab": false,
+    "placeholder": "",
+    "request": "",
+    "suggestions": true
+  },
+  "quotes": {
+    "on": false,
+    "author": false,
+    "frequency": "day",
+    "last": 1722024644691,
+    "type": "classic"
+  },
+  "font": {
+    "size": "14",
+    "family": "",
+    "system": true,
+    "weight": "300",
+    "weightlist": []
+  },
+  "move": {
+    "layouts": {
+      "double": {
+        "grid": [
+          [
+            "time",
+            "."
+          ],
+          [
+            "main",
+            "."
+          ],
+          [
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      },
+      "single": {
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "main"
+          ],
+          [
+            "searchbar"
+          ],
+          [
+            "quicklinks"
+          ]
+        ],
+        "items": {}
+      },
+      "triple": {
+        "grid": [
+          [
+            ".",
+            "time",
+            "."
+          ],
+          [
+            ".",
+            "main",
+            "."
+          ],
+          [
+            ".",
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      }
+    },
+    "selection": "single"
+  }
+}
